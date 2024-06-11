@@ -23,12 +23,6 @@ Balance Management: KHUSHITOKEN keeps track of token balances for each Ethereum 
 
 2. Interact with the Contract: Once deployed, you can interact with the contract using Ethereum wallets, dApps, or custom scripts. Mint new tokens, burn existing tokens, or query token balances as needed.
 
-
-### Get Started
-
-To get started with KHUSHITOKEN, deploy the contract and explore its functionality. Feel free to customize token parameters to suit your project requirements or branding preferences.
-
-
 ### License
 
 KHUSHITOKEN is released under the MIT License. See the LICENSE file for more information.
